@@ -9,5 +9,7 @@
   <br>
   <br>
   <h2> Starbucks's Iced Chai Tea Latte </h2>
-  <img src="https://www.starbucks.com.au/_files/product-images/iced-tea/sbx20190531-31057-icedlondonfogtealatte-onwhite-corelib-srgb-2.png" alt="Iced Chai Tea Latte">
-  <p> <a> href="https://www.starbucks.com/menu/product/466/iced">Find this drink here!</a> </p>
+    <img src="https://www.starbucks.com.au/_files/product-images/iced-tea/sbx20190531-31057-icedlondonfogtealatte-onwhite-corelib-srgb-2.png" alt="Iced Chai Tea Latte">
+  <p><a>"https://www.starbucks.com/menu/product/466/iced">Find this drink here!</a></p>
+<h3><a href="https://youtu.be/roughtzsCDI">Watch the music video here!!</a></h3>
+<img src="https://m.media-amazon.com/images/I/91oS0mZUsFS._SS500_.jpg" alt="SHINee’s <i>2009 Year of Us</i> album">
