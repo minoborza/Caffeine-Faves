@@ -26,12 +26,12 @@ style="width:130px;height:200px;">
  <h2> Bang Energy Drink - 'Blue Razz' </h2>
   <p> The Blue Razz is one of my favorites due to the nostalgia flavor of the fictional blue raspberry. Whether it's a candy or drink, when done right, Blue Raspberry flavored things have a place in my heart.  </p>
 <p><a href="https://bangenergy.com/collections/energy/products/bang-energy-drink-blue-razz-16oz?variant=43308534956291">Find this drink here!</a></p>
-<img src="https://thepartysource.com/image/cache//catalog/inventory/BANG-BLUE-RAZZ-16-OUNCE-500x500.jpg" alt="Blue Razz" style="width:130px;height:130px;">
+<img src="https://cdn.shopify.com/s/files/1/0654/6384/5123/products/bang-energy-drink-can-blue-razz.jpg?v=1663280314&width=800" alt="Blue Razz" style="width:130px;height:130px;">
   <hr>
  <h2> Bang Energy Drink - 'Cotton Candy' </h2>
   <p> The Cotton Candy flavor is truly for someone with a sweet tooth. It quite seriously tastes like sugary cotton candy, or at least just a sweet actual candy. </p>
 <p><a href="https://bangenergy.com/collections/energy/products/bang-energy-drink-cotton-candy-16oz?variant=43308729860355">Find this drink here!</a></p>
-<img src="https://images.heb.com/is/image/HEBGrocery/002096726" alt="Cotton Candy" style="width:130px;height:130px;">
+<img src="https://cdn.shopify.com/s/files/1/0654/6384/5123/products/bang-energy-drink-can-cotton-candy.jpg?v=1663286243&width=800" alt="Cotton Candy" style="width:130px;height:130px;">
  <hr>
  <h2> Bang Energy Drink - 'Sour Heads' </h2>
   <p> My absolute favorite drink after the Iced Chai Tea Latte. It has the flavoring of sour candy with little-to-no bad aftertaste. On occasion I stock up around 4 or 5 cans at a time to prepare for hard days that I know I'll need caffeine to get me through. The sour apple mixed with the slight sweetness is such a great pick-me-up for early morning activities. </p>
