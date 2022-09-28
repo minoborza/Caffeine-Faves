@@ -37,3 +37,15 @@ style="width:130px;height:200px;">
   <p> My absolute favorite drink after the Iced Chai Tea Latte. It has the flavoring of sour candy with little-to-no bad aftertaste. On occasion I stock up around 4 or 5 cans at a time to prepare for hard days that I know I'll need caffeine to get me through. The sour apple mixed with the slight sweetness is such a great pick-me-up for early morning activities. </p>
 <p><a href="https://bangenergy.com/products/bang-energy-drink-sour-heads-16oz">Find this drink here!</a></p>
 <img src="http://cdn.shopify.com/s/files/1/0654/6384/5123/products/bang-energy-drink-can-sour-heads.jpg?v=1663291395" alt="Sour Heads" style="width:130px;height:130px;">
+<br>
+ <h2> Resources</h2>
+<ul>
+<li> Starbucks
+ <ul>
+ <li> Images from <a href="https://www.sweetsteep.com/starbucks-chai-tea-latte-modifications/">here</a>, <a href="https://thehealthfulideas.com/iced-chocolate-almondmilk-shaken-espresso/">here</a>,and <a href="https://www.groundstobrew.com/web-stories/vanilla-starbucks-drinks/">here</a>!
+ <li> All drinks found <a href="https://www.starbucks.com/menu">here</a>!
+ </ul>
+<li> Bang Energy
+ <ul>
+ <li> All images and drinks are found <a href="https://bangenergy.com/collections/energy">here</a>!
+ </ul>
