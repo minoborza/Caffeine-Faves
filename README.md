@@ -17,3 +17,8 @@
 <p><a href="https://www.starbucks.com/menu/product/2123430/iced">Find this drink here!</a></p>
 <img src="https://thehealthfulideas.com/wp-content/uploads/2022/05/Iced-Chocolate-Almondmilk-Shaken-Espresso-19.jpg"width="130" 
      height="200" />
+ <h2> Starbucks's Iced Blonde Vanilla Latte </h2>
+  <p> I always get extra vanilla because it's just better the less it tastes like coffee! This drink is probably one of my original favorites from starbucks, I've been getting it since quarantine. Like the Iced Chai Tea Latte, I also get this with oatmilk, but it tastes good with regular milk as well! </p>
+<p><a href="https://www.starbucks.com/menu/product/2122164/iced">Find this drink here!</a></p>
+<img src="https://www.groundstobrew.com/wp-content/uploads/2021/07/starbucks-vanilla-drinks.jpg"width="130" 
+     height="200" />
