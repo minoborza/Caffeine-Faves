@@ -45,7 +45,7 @@ style="width:130px;height:200px;">
  <ul>
  <li> Images from <a href="https://www.sweetsteep.com/starbucks-chai-tea-latte-modifications/">here</a>, <a href="https://thehealthfulideas.com/iced-chocolate-almondmilk-shaken-espresso/">here</a>,and <a href="https://www.groundstobrew.com/web-stories/vanilla-starbucks-drinks/">here</a>!
  <li> All drinks found <a href="https://www.starbucks.com/menu">here</a>!
- </ul>
+
 <li> Bang Energy
  <ul>
  <li> All images and drinks are found <a href="https://bangenergy.com/collections/energy">here</a>!
